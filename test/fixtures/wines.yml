@@ -2,12 +2,14 @@
 
 one:
   name: MyString
-  type: 
+  colour: MyString
   country: MyString
   year: MyString
+  image: MyString
 
 two:
   name: MyString
-  type: 
+  colour: MyString
   country: MyString
   year: MyString
+  image: MyString
